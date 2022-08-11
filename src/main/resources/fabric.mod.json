@@ -1,17 +1,14 @@
 {
   "schemaVersion": 1,
   "id": "hollow_magic",
-  "version": "${version}",
+  "version": "1.0.1",
 
   "name": "Hollow Magic",
-  "description": "Bring the magic from Hollow Knight into Minecraft.",
+  "description": "Brings the magic from Hollow Knight into Minecraft.",
   "authors": [
     "Exmeow"
   ],
-  "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
-  },
+  "contact": {},
 
   "license": "CC0-1.0",
   "icon": "assets/hollow_magic/icon.png",
@@ -29,6 +26,10 @@
     "hollow_magic.mixins.json"
   ],
 
-  "depends": {},
-  "suggests": {"another-mod": "*"}
+  "depends": {
+    "minecraft": "1.19.x",
+    "fabricloader": ">=0.14",
+    "fabric": "*"
+  },
+  "suggests": {}
 }
