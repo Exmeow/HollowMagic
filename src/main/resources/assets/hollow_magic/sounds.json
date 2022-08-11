@@ -1,0 +1,62 @@
+{
+  "vengeful_spirit_spell": {
+    "subtitle": "subtitles.hollow_magic.vengeful_spirit_spell",
+    "sounds": [
+      "hollow_magic:vengeful_spirit_spell"
+    ]
+  },
+  "desolate_dive_spell": {
+    "subtitle": "subtitles.hollow_magic.desolate_dive_spell",
+    "sounds": [
+      "hollow_magic:desolate_dive_spell"
+    ]
+  },
+  "desolate_dive_hit": {
+    "subtitle": "subtitles.hollow_magic.desolate_dive_hit",
+    "sounds": [
+      "hollow_magic:desolate_dive_hit"
+    ]
+  },
+  "player_got_soul": {
+    "subtitle": "subtitles.hollow_magic.player_got_soul",
+    "sounds": [
+      "hollow_magic:player_got_soul"
+    ]
+  },
+  "player_got_full_soul": {
+    "subtitle": "subtitles.hollow_magic.player_got_full_soul",
+    "sounds": [
+      "hollow_magic:player_got_full_soul"
+    ]
+  },
+  "descending_dark_hit": {
+    "subtitle": "subtitles.hollow_magic.descending_dark_hit",
+    "sounds": [
+      "hollow_magic:descending_dark_hit"
+    ]
+  },
+  "descending_dark_spell": {
+    "subtitle": "subtitles.hollow_magic.descending_dark_spell",
+    "sounds": [
+      "hollow_magic:desolate_dive_spell"
+    ]
+  },
+  "shade_soul_spell":{
+    "subtitle": "subtitles.hollow_magic.shade_soul_spell",
+    "sounds": [
+      "hollow_magic:shade_soul_spell"
+    ]
+  },
+  "howling_wraiths_spell": {
+    "subtitle": "subtitles.hollow_magic.howling_wraiths_spell",
+    "sounds": [
+      "hollow_magic:howling_wraiths_spell"
+    ]
+  },
+  "abyss_shriek_spell": {
+    "subtitle": "subtitles.hollow_magic.abyss_shriek_spell",
+    "sounds": [
+      "hollow_magic:abyss_shriek_spell"
+    ]
+  }
+}

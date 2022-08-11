@@ -1,0 +1,18 @@
+{
+  "key.category.spells": "法术",
+  "key.hollow_magic.spell": "法术",
+  "key.hollow_magic.super_spell": "超级法术",
+  "death.attack.spell": "%1$s 死于 %2$s 的法术",
+  "subtitles.hollow_magic.vengeful_spirit_spell": "复仇之魂：释放",
+  "entity.hollow_magic.vengeful_spirit": "复仇之魂",
+  "entity.hollow_magic.shade_soul": "暗影之魂",
+  "subtitles.hollow_magic.desolate_dive_spell": "荒芜俯冲：释放",
+  "subtitles.hollow_magic.desolate_dive_hit": "荒芜俯冲：撞击",
+  "subtitles.hollow_magic.descending_dark_spell": "黑暗降临：释放",
+  "subtitles.hollow_magic.descending_dark_hit": "黑暗降临：撞击",
+  "subtitles.hollow_magic.player_got_soul": "获取灵魂",
+  "subtitles.hollow_magic.player_got_full_soul": "灵魂充满",
+  "subtitles.hollow_magic.shade_soul_spell": "暗影之魂：释放",
+  "subtitles.hollow_magic.howling_wraiths_spell": "嚎叫幽灵：释放",
+  "subtitles.hollow_magic.abyss_shriek_spell": "深渊尖啸：释放"
+}
